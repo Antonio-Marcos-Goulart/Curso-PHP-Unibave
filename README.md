@@ -1,6 +1,10 @@
-Curso de programação em PHP promovido pelo Centro Universitário Barriga Verde - Unibave.
+# Curso de Programação em PHP - Projeto de Conclusão
 
-Sendo o projeto de conclusão, o desenvolvimento de dois formulários, um para o cadastro de  pessoas onde o usuário terá que inserir os seguintes dados:
-Nome, Sobrenome, Idade, CEP e País onde mora, após a inserção dos dados o usuário terá que fazer via POST o envio do formulário que se encarregará de pegar esses dados e mostrar na tela, sendo possível realizar a edição e exclusão desses dados em uma outra tabela.
+Este repositório contém os arquivos relacionados ao projeto de conclusão do Curso de Programação em PHP promovido pelo Centro Universitário Barriga Verde - Unibave.
 
-Sendo encontrados aqui os arquivos referentes ao projeto de finalização do curso.
+## Descrição do Projeto
+
+O projeto de conclusão consiste no desenvolvimento de dois formulários. 
+O primeiro é destinado ao cadastro de pessoas, onde o usuário deverá inserir os seguintes dados: Nome, Sobrenome, Idade, CEP e País de residência. Após a inserção dos dados, o usuário deverá submeter o formulário via método POST. 
+O sistema se encarregará de capturar esses dados e exibi-los na tela, permitindo também a edição e exclusão dessas informações em outra tabela.
+
