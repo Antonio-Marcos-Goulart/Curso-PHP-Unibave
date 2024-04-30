@@ -12,7 +12,7 @@ O projeto consiste na criação de formulários para o cadastro e edição de us
 
 Este repositório contém os arquivos relacionados ao projeto de conclusão do Curso de Programação em PHP.
 
-## Arquivos Principais do Projeto de Conclusão
+## Principais Arquivos do Projeto de Conclusão
 
 - **formulario.php**: Arquivo contendo o formulário de cadastro de usuários.
 - **listagem.php**: Exibição da tabela de "Usuários Cadastrados".
